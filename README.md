@@ -1,0 +1,4 @@
+# Porque JustBuy DataBaseGenerator:
+El programa esta compuesto de node js y un archivo js que contiene clases, herencias y declaraciones de muchos productos. Si se quisiera añadir un producto nuevo a esta base de datos, sería mucho mas intuitivo modificar este mismo js llamado main.js que modificar el .json oficial. Aca se pueden añadir productos de manera automatomatica, modificaros y declararlos en masa. Luego se utiliza un modulo de Node, que escribe el array de objetos en un archivo .json. Este lo copio y lo llevo a justBuy oficial. 
+
+JustBuy Oficial: https://github.com/RafaelGini/JustBuy_Official
